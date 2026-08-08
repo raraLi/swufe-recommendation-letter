@@ -66,3 +66,10 @@ Recommendation Letter Content
 ```text
 img/signature.jpg
 ```
+## 推荐信内容参考
+
+```text
+CR[1003].pdf
+```
+pdf文件为推荐信内容参考，需注意已经使用多次
+
