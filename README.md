@@ -1,3 +1,8 @@
+[![License](https://img.shields.io/badge/license-LPPL-blue)](https://www.latex-project.org/lppl/)
+[![Last Commit](https://img.shields.io/github/last-commit/raraLi/swufe-recommendation-letter)](https://github.com/raraLi/swufe-recommendation-letter)
+[![Issues](https://img.shields.io/github/issues/raraLi/swufe-recommendation-letter)](https://github.com/raraLi/swufe-recommendation-letter/issues)
+![Repo Size](https://img.shields.io/github/repo-size/raraLi/swufe-recommendation-letter.svg)
+
 # SWUFE 推荐信 LaTeX 模板
 
 西南财经大学（Southwestern University of Finance and Economics，SWUFE）推荐信 LaTeX 模板。
