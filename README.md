@@ -18,7 +18,9 @@
 * 教授签名
 * 学校 Logo 水印
 * 联系方式
-
+* A4 页面排版
+* 中文字体支持
+* 
 ## 使用方法
 
 ### 1. 使用 Overleaf
@@ -30,6 +32,7 @@
 ```text
 XeLaTeX
 ```
+然后点击 Recompile 即可生成 PDF。
 
 ### 2. 本地编译
 
@@ -43,6 +46,7 @@ XeLaTeX
 ```bash
 xelatex main.tex
 ```
+如果模板使用了其他依赖，请根据编译器提示安装相应宏包。
 
 ## 修改内容
 
@@ -54,8 +58,10 @@ Professor Email
 Professor Phone
 Recommendation Letter Content
 ```
+推荐信正文可以直接在 main.tex 中进行修改。
 
-同时根据实际推荐人替换：
+## 更换推荐人签名
+如果需要更换推荐人签名，请替换：
 
 ```text
 img/signature.jpg
